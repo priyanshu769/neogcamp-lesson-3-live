@@ -103,6 +103,10 @@ hr {
     text-align: center;
 }
 
+.heading-inverted {
+    color: var(--primary-color);
+}
+
 /* section */
 
 .section {
